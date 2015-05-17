@@ -1,0 +1,2 @@
+init="this allowDamage false; this enableSimulation false; removeAllWeapons this; removeBackpack this;this addAction[""Für Paintballmatch anmelden"",jl_fnc_PWarteschlangeAction,1,1,false,false,"""",'(!checkPaintballWarteschlange)'];this addAction[""Für Paintballmatch abmelden"",jl_fnc_PWarteschlangeAction,2,1,false,false,"""",'(checkPaintballWarteschlange)'];";
+					};
