@@ -36,11 +36,7 @@ life_versionInfo = "ArmA 3 Life 0.3.0";
 [] execVM "zlt_fastrope.sqf";
 [] execVM "hackerSpanker.sqf";
 [] execVM "hackerSpanker2.sqf";
-//[] execVM "welcomecredits.sqf";
 [] execVM "weather.sqf";
-//[] execVM "core\functions\fn_emptyFuel.sqf";
-
-
 
 StartProgress = true;
 
